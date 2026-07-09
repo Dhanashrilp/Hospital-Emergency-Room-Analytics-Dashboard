@@ -9,8 +9,6 @@
 
 **Pages:** 4
 
-**KPIs:** 4
-
 **Dashboard Type:** Operational Analytics Dashboard
 ## Problem Statement
 
